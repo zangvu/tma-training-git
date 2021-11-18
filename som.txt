@@ -3,7 +3,7 @@ giangvt modify
 new line huhuh
 buc ca minh
 phuc modify
-https://github.com/zangvu/tma-training-git.git
+https://github.com/zangvu/tma-training-git.
 asdjasoidj
 giang mofify
 kho de
